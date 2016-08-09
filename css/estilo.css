@@ -1,0 +1,78 @@
+.t_p{
+	height: 400px;
+}
+.color1{
+	background-color: pink;
+}
+.color2{
+	background-color: #DC2CE7;
+}
+
+.fondo_not{
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+
+#menu_inicio h4{
+	background-color: #AE04D2;
+	color: white;
+	padding: 20px;
+	border-radius: 6px;
+
+}
+
+
+
+#falta_mono{
+	background-image: url("../img/mujer_de_maiz.jpg");
+	color: white;
+	height: 600px;
+}
+#falta_mono .col-md-offset-1{
+	padding-top: 15%;
+}
+#falta_mono h2{
+	background-color: #51A7C7;
+	color:white;
+	padding: 10px;
+	border-radius:6px;
+	text-shadow:0px 1px 1px black;
+}
+
+/* tienda inicio */
+#tienda_inicio .row{
+	background-color: #F6F4F4;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+#tienda_inicio h2{
+	background-color: #36B2C4;
+	color:white;
+	padding: 20px;
+}
+#tienda_inicio article{
+	background-color: white;
+	box-shadow:0px 1px 1px black; 
+	padding: 10px;
+	border-radius:6px;
+}
+
+/* normas inicio */
+#normas{
+	background-image: url("../img/mujer_de_cachipo.jpg");
+	height: 600px;
+}
+#normas li{
+	margin-bottom: 2%;
+}
+#normas .col-md-offset-6{
+	padding-top: 7%;
+}
+
+footer{
+	padding-top: 20px;
+}
+#red_social_footer{
+	padding-top: 25px;
+}
